@@ -20,7 +20,7 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: rabbitmq
+    host: 4scj.com
   sleuth:
     sampler:
       percentage: 1
@@ -30,7 +30,7 @@ spring:
       skip-pattern: "^org.*HystrixStreamTask$"
 
 authserver:
-    hostname: auth-service
+    hostname: 4scj.com
     port: 5000
     contextPath: /uaa
 
