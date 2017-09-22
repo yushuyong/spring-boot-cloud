@@ -20,7 +20,10 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: 4scj.com
+    host: 118.190.181.19
+    port : 5672
+    username: guest
+    password: guest
   sleuth:
     sampler:
       percentage: 1
