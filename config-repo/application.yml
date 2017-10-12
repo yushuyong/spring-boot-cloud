@@ -20,7 +20,7 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: 118.190.181.19
+    host: 118.190.135.233
     port : 5672
     username: guest
     password: guest
