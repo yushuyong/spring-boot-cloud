@@ -20,7 +20,7 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: 4scj.com
+    host: rabbitmq
     port : 5672
     username: guest
     password: guest
